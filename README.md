@@ -1,5 +1,15 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+this is a site based on the javascript tutorial (Build and Deploy a Fully Responsive Modern UI/UX Website | React.js, Next.js 13, Tailwind CSS) on youtube
+
+## [Desktop view of the site]
+![desktop sample image](sample desktop.png)
+
+
+## [mobile view of the site]
+![mobile sample image](sample mobile.png)
+
+
 ## Getting Started
 
 First, run the development server:
